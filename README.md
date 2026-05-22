@@ -1,14 +1,35 @@
-# 🧭 splitit.
+<div align="center">
+  <img src="./assets/logo.png" alt="Splitit. - The way to share expenses" width="600" />
+</div>
 
-> **The way to share expenses.**  
-> *Zero-cloud. Privacy-first. Beautifully simple.*
+<br />
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-4A5D4E.svg)](https://opensource.org/licenses/MIT)
-[![React 19](https://img.shields.io/badge/React-19-61DAFB.svg)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6.svg)](https://www.typescriptlang.org)
-[![Vite](https://img.shields.io/badge/Vite-5-646CFF.svg)](https://vitejs.dev)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38B2AC.svg)](https://tailwindcss.com)
-[![PWA](https://img.shields.io/badge/PWA-Supported-000000.svg)](https://web.dev/progressive-web-apps/)
+<p align="center">
+  <strong>Zero-cloud. Privacy-first. Beautifully simple expense sharing.</strong>
+</p>
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-4A5D4E.svg" alt="License: MIT" />
+  </a>
+  <a href="https://react.dev">
+    <img src="https://img.shields.io/badge/React-19-61DAFB.svg" alt="React 19" />
+  </a>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://img.shields.io/badge/TypeScript-5-3178C6.svg" alt="TypeScript" />
+  </a>
+  <a href="https://vitejs.dev">
+    <img src="https://img.shields.io/badge/Vite-5-646CFF.svg" alt="Vite" />
+  </a>
+  <a href="https://tailwindcss.com">
+    <img src="https://img.shields.io/badge/Tailwind-3-38B2AC.svg" alt="Tailwind CSS" />
+  </a>
+  <a href="https://web.dev/progressive-web-apps/">
+    <img src="https://img.shields.io/badge/PWA-Supported-000000.svg" alt="PWA" />
+  </a>
+</p>
+
+<br />
 
 ---
 
@@ -268,7 +289,7 @@ npm run deploy
 Visit: `https://yourusername.github.io/splitit-app/`
 
 ### Option 3: Any Static Host
-Since splitit. is 100% static:
+Since Splitit. is 100% static:
 ```bash
 npm run build
 # Upload /dist folder to:
@@ -282,7 +303,7 @@ npm run build
 
 ## 📱 Progressive Web App (PWA) Features
 
-splitit. is installable and works offline:
+Splitit. is installable and works offline:
 
 ✅ Add to Home Screen prompt  
 ✅ Offline-first with localStorage persistence  
@@ -368,5 +389,5 @@ SOFTWARE.
 
 <p align="center">
   <sub>Made with 🫶 for roommates, couples, and friends who value privacy.</sub><br>
-  <strong>splitit.</strong> — <em>The way to share expenses.</em>
+  <strong>Splitit.</strong> — <em>The way to share expenses.</em>
 </p>
