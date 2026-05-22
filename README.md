@@ -37,13 +37,30 @@
 <div align="center">
 <div align="center">
 
+<div align="center">
+
 ## 🚀 Live Demo
 
-<a href="https://splitit-app-nu.vercel.app/">
-  <img src="https://img.shields.io/badge/_Launch_Splitit._-4A5D4E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FAF8F5" alt="Launch Splitit." />
+<br />
+
+<a href="https://splitit-app-nu.vercel.app/" style="
+  display: inline-block;
+  background-color: #4A5D4E; 
+  color: #FAF8F5; 
+  padding: 12px 32px; 
+  font-size: 18px; 
+  font-weight: 600; 
+  text-decoration: none; 
+  border-radius: 50px; 
+  box-shadow: 0 4px 12px rgba(74, 93, 78, 0.25); 
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border: 1px solid #4A5D4E;
+">
+  Launch Splitit. →
 </a>
 
-<br />
+<br /><br />
+
 <sub><strong>Zero-Cloud • Privacy-First • Instant Share</strong></sub>
 
 <br /><br />
