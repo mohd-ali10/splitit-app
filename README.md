@@ -34,26 +34,30 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 🚀 Live Demo
 
-<a href="https://splitit-app-nu.vercel.app/" style="text-decoration: none;">
-  <button style="
-    background-color: #4A5D4E;
-    color: #FAF8F5;
-    border: none;
-    padding: 12px 24px;
-    font-size: 16px;
-    font-weight: bold;
-    border-radius: 8px;
-    cursor: pointer;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease;
-  ">
-    🚀 Launch Splitit.
-  </button>
+<br />
+
+<a href="https://splitit-app-nu.vercel.app/" style="
+  display: inline-block;
+  background-color: #4A5D4E; /* Your Primary Olive */
+  color: #FAF8F5; /* Your Cream Text */
+  padding: 14px 28px;
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 50px; /* Pill shape */
+  box-shadow: 0 4px 15px rgba(74, 93, 78, 0.3); /* Soft olive shadow */
+  transition: all 0.3s ease;
+  border: 2px solid #4A5D4E;
+">
+   Launch Splitit.
 </a>
 
-<br />
+<br /><br />
+
 <sub><strong>Zero-Cloud • Privacy-First • Instant Share</strong></sub>
 
 <br /><br />
@@ -61,6 +65,8 @@
 > 💡 **Pro Tip:** Open on mobile and tap **"Add to Home Screen"** to install as a native-like PWA. No app store download required!
 
 </div>
+
+---
 
 ## 🌿 Philosophy
 
