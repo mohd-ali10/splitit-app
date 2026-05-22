@@ -35,7 +35,7 @@
 
 ## 🌿 Philosophy
 
-Modern financial utilities have become bloated with intrusive tracking, mandatory cloud accounts, and micro-transactions. **splitit.** was designed to counter this.
+Modern financial utilities have become bloated with intrusive tracking, mandatory cloud accounts, and micro-transactions. **Splitit.** was designed to counter this.
 
 > ✨ A utility built for close companions, couples, and roommates who want to calculate and balance peer expenses instantly on a shared phone screen — **without compromising their personal data.**
 
