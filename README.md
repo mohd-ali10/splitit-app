@@ -30,18 +30,18 @@
 </p>
 
 <br />
+<div align="center">
+
 ##  Live Demo
 
-<div align="center">
-  
-  [![Try Splitit. Live](https://img.shields.io/badge/_Launch_App-4A5D4E?style=for-the-badge&logo=vercel&logoColor=white)](https://splitit-app-nu.vercel.app/)
-  
-  <br />
-  <sub><strong>Zero-Cloud • Privacy-First • Instant Share</strong></sub>
-  
-  <br /><br />
-  
-  > 💡 **Pro Tip:** Open on mobile and tap **"Add to Home Screen"** to install as a native-like PWA. No app store download required!
+[![Try Splitit. Live](https://img.shields.io/badge/_Launch_App-4A5D4E?style=for-the-badge&logo=vercel&logoColor=white)](https://splitit-app-nu.vercel.app/)
+
+<br />
+<sub><strong>Zero-Cloud • Privacy-First • Instant Share</strong></sub>
+
+<br /><br />
+
+> 💡 **Pro Tip:** Open on mobile and tap **"Add to Home Screen"** to install as a native-like PWA. No app store download required!
 
 </div>
 
