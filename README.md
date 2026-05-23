@@ -4,49 +4,66 @@
 
 <br />
 
+<!-- 🎨 Animated Hero Banner -->
 <p align="center">
-  <strong>Zero-cloud. Privacy-first. Beautifully simple expense sharing.</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=🧾%20Splitit&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=white&desc=Zero-cloud%20•%20Privacy-first%20•%20Beautifully%20simple%20expense%20sharing&descAlignY=58&descAlign=50&stroke=4A5D4E" alt="Splitit Header"/>
 </p>
 
+<!-- ⌨️ Dynamic Typing Effect -->
+<p align="center">
+  <a href="https://splitit-nu.vercel.app">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=4A5D4E&center=true&vCenter=true&width=550&lines=No+Backend.+No+Tracking.+No+Compromises.;All+data+stays+in+your+browser.;Split+bills+offline,+instantly.;100%25+Private.+100%25+Yours." alt="Splitit Tagline"/>
+  </a>
+</p>
+
+<!-- 🏷️ Badges Row -->
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-4A5D4E.svg" alt="License: MIT" />
+    <img src="https://img.shields.io/badge/📜_License-MIT-4A5D4E?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=E8E6E1" alt="License"/>
   </a>
   <a href="https://react.dev">
-    <img src="https://img.shields.io/badge/React-19-61DAFB.svg" alt="React 19" />
+    <img src="https://img.shields.io/badge/⚛️_React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=E8E6E1" alt="React 19"/>
   </a>
   <a href="https://www.typescriptlang.org">
-    <img src="https://img.shields.io/badge/TypeScript-5-3178C6.svg" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/📘_TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=E8E6E1" alt="TypeScript"/>
   </a>
   <a href="https://vitejs.dev">
-    <img src="https://img.shields.io/badge/Vite-5-646CFF.svg" alt="Vite" />
+    <img src="https://img.shields.io/badge/⚡_Vite-5-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=E8E6E1" alt="Vite"/>
   </a>
   <a href="https://tailwindcss.com">
-    <img src="https://img.shields.io/badge/Tailwind-3-38B2AC.svg" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/🎨_Tailwind-3-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=E8E6E1" alt="Tailwind CSS"/>
   </a>
   <a href="https://web.dev/progressive-web-apps/">
-    <img src="https://img.shields.io/badge/PWA-Supported-000000.svg" alt="PWA" />
+    <img src="https://img.shields.io/badge/📱_PWA-Ready-000000?style=for-the-badge&logo=progressive-web-apps&logoColor=white&labelColor=E8E6E1" alt="PWA"/>
   </a>
 </p>
 
-<br />
+<!-- 🚀 Primary CTA -->
+<p align="center">
+  <a href="https://splitit-nu.vercel.app">
+    <img src="https://img.shields.io/badge/🚀_Launch_Splitit_Now-4A5D4E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FAF8F5&logoSize=auto" alt="Launch Splitit"/>
+  </a>
+  <br/>
+  <sub><strong>✨ Zero-Cloud • 🔐 Privacy-First • ⚡ Instant Share • 📲 PWA Installable</strong></sub>
+</p>
 
-<div align="center">
+---
 
-## 🚀 Live Demo
+## 🎯 Why Splitit?
 
-<a href="https://splitit-nu.vercel.app/">
-  <img src="https://img.shields.io/badge/_Launch_Splitit._-4A5D4E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FAF8F5" alt="Launch Splitit." />
-</a>
+> 💡 **The Problem**: Most expense-splitting apps require accounts, cloud sync, and track your data.  
+> 🔐 **Our Solution**: Splitit works **entirely in your browser**. No sign-up. No servers. No tracking. Just split bills and share via link — offline.
 
-<br />
-<sub><strong>Zero-Cloud • Privacy-First • Instant Share</strong></sub>
-
-<br /><br />
-
-> 💡 **Pro Tip:** Open on mobile and tap **"Add to Home Screen"** to install as a native-like PWA. No app store download required!
-
-</div>
+```mermaid
+graph LR
+    A[You Add Expenses] --> B[Local Storage 🔐]
+    B --> C[Generate Share Link]
+    C --> D[Friend Opens Link]
+    D --> E[Their Browser Calculates Split]
+    E --> F[No Data Leaves Device]
+    style A fill:#4A5D4E,stroke:#333,stroke-width:2px,color:white
+    style B fill:#2ECC71,stroke:#333,stroke-width:2px,color:white
+    style F fill:#E74C3C,stroke:#333,stroke-width:2px,color:white
 
 ## 📱 App Gallery
 
