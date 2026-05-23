@@ -45,22 +45,6 @@
 
 ---
 
-## 🎯 Why Splitit?
-
-> 💡 **The Problem**: Most expense-splitting apps require accounts, cloud sync, and track your data.  
-> 🔐 **Our Solution**: Splitit works **entirely in your browser**. No sign-up. No servers. No tracking. Just split bills and share via link — offline.
-
-```mermaid
-graph LR
-    A[You Add Expenses] --> B[Local Storage 🔐]
-    B --> C[Generate Share Link]
-    C --> D[Friend Opens Link]
-    D --> E[Their Browser Calculates Split]
-    E --> F[No Data Leaves Device]
-    style A fill:#4A5D4E,stroke:#333,stroke-width:2px,color:white
-    style B fill:#2ECC71,stroke:#333,stroke-width:2px,color:white
-    style F fill:#E74C3C,stroke:#333,stroke-width:2px,color:white
-
 ## 📱 App Gallery
 
 <div align="center">
